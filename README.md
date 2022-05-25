@@ -25,7 +25,7 @@
 #### My card in GitHub:
 
 <div align="center">
-<a><img width="45%"   alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexia910&layout=compact&bg_color=f9f8f3&title_color=d18361&text_color=4c5747)"/></a>
+<a><img width="60%"   alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=alexia910&layout=compact&bg_color=f9f8f3&title_color=d18361&text_color=4c5747)"/></a>
 <a><img src="images/giphy.gif" width="150"/></a>
 </div>
 
