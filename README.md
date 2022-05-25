@@ -1,8 +1,6 @@
 [![Alexia's GitHub Banner](./images/header.jpg)](https://github.com/alexia910)
 
-[![Alexia's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexia910&layout=compact&bg_color=f9f8f3&title_color=d18361&text_color=4c5747)](https://github.com/alexia910)
-
-###Stack:
+#### Stack:
 <p align="center">
 <a href="https://www.jetbrains.com/idea/"><img src="images\logo\Idea.svg" width="50" height="50"  alt="IDEA"/></a>
 <a href="https://www.java.com/"><img src="images\logo\Java.svg" width="50" height="50"  alt="Java"/></a>
@@ -19,6 +17,9 @@
 <a href="https://www.java.com/"><img src="images\logo\Java.svg" width="50" height="50"  alt="Java"/></a>
 <a href="https://aerokube.com/selenoid/"><img src="images\logo\Selenoid.svg" width="50" height="50"  alt="Selenoid"/></a>
 </p>
+
+#### My card in GitHub:
+[![Alexia's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexia910&layout=compact&bg_color=f9f8f3&title_color=d18361&text_color=4c5747)](https://github.com/alexia910)
 
 <div id="header" align="center">
   <img src="images/giphy.gif" width="100"/>
