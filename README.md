@@ -25,7 +25,9 @@
 ### Check out my projects:
 - <a target="_blank" href="https://github.com/Alexia910/qa_guru_diplom">Priorbank. UI and API tests</a>
 - <a target="_blank" href="https://github.com/Alexia910/qa_guru_diplom_mobile">GnuCash. Mobile tests</a>
-- <a target="_blank" href="https://github.com/Alexia910/qa-guru-hw9-files">Working with files. Tests</a>
+
+####  Other interesting tests:
+- <a target="_blank" href="https://github.com/Alexia910/qa-guru-hw9-files">Working with files</a>
 - <a target="_blank" href="https://github.com/Alexia910/qa-guru-hw-6">Parameterized tests</a>
 
 ### My card in GitHub:
