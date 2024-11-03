@@ -39,7 +39,7 @@
 
 ### Contact me: 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/alexia-drugakova/">
+  <a href="https://www.linkedin.com/in/aleksiya-druhakova/">
     <img src="images/LinkedIn.svg" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:lesya.91099@gmail.com">
